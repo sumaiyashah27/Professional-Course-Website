@@ -1,11 +1,6 @@
-# VandanaTechverse  
-
-Welcome to **VandanaTechverse** – your go-to platform for mastering IT domain courses.  
-
-🌐 **Live Website:** [VandanaTechverse](https://vandanatechverse.in/)  
-
+# Professional Course Website  
 ## 📌 About  
-VandanaTechverse offers high-quality training and resources in various IT domains, helping learners enhance their skills and stay ahead in the tech industry.  
+This platform provides structured and in-depth learning resources, ensuring accessibility and ease of use for individuals and organizations.  
 
 ## 📂 Project Structure  
 ```
@@ -22,10 +17,10 @@ index.html               # Homepage
 ```
 
 ## 🚀 Features  
-✔️ IT domain courses for beginners & professionals  
-✔️ Corporate training programs  
-✔️ Upcoming tech events and workshops  
-✔️ User-friendly interface  
+✔️ Comprehensive IT courses for beginners & professionals  
+✔️ Corporate training solutions  
+✔️ Live and recorded tech events and workshops  
+✔️ Responsive and user-friendly design  
 
 ## 🛠️ Technologies Used  
 - HTML5  
@@ -33,6 +28,5 @@ index.html               # Homepage
 - JavaScript  
 
 ## 📧 Contact  
- 📩 **Email:** [sumaiyashah647@gmail.com](mailto:sumaiyashah647@gmail.com)
-🔗 **LinkedIn:** [Sumaiya Shah](https://www.linkedin.com/in/sumaiya-shah-7a0706224/) 
-🌐 Website: [vandanatechverse.in](https://vandanatechverse.in/)  
+📩 Email: [sumaiyashah647@gmail.com](mailto:sumaiyashah647@gmail.com)  
+🔗 LinkedIn: [Sumaiya Shah](https://www.linkedin.com/in/sumaiya-shah-7a0706224/)  
