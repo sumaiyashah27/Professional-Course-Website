@@ -2,20 +2,6 @@
 ## 📌 About  
 This platform provides structured and in-depth learning resources, ensuring accessibility and ease of use for individuals and organizations.  
 
-## 📂 Project Structure  
-```
-css/                     # Stylesheets for the website  
-fonts/                   # Custom fonts used  
-images/                  # Website images and assets  
-js/                      # JavaScript files  
-about.html               # About Us page  
-contact.html             # Contact Us page  
-corporate_training.html  # Corporate Training page  
-courses.html             # Courses offered  
-events.html              # Events and workshops  
-index.html               # Homepage  
-```
-
 ## 🚀 Features  
 ✔️ Comprehensive IT courses for beginners & professionals  
 ✔️ Corporate training solutions  
